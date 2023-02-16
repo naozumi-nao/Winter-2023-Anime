@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_anime_cover"
+            android:layout_width="0dp"
+            android:layout_height="300dp"
+            android:layout_margin="16dp"
+            android:contentDescription="@string/anime_cover"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/fumo" />
+
+        <TextView
+            android:id="@+id/tv_anime_title"
+            style="@style/TextTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/anime_titles"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.278"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/iv_anime_cover" />
+
+        <TextView
+            android:id="@+id/tv_anime_eng_title"
+            style="@style/TextSubtitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/anime_title"
+            android:textAlignment="center"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_anime_title" />
+
+        <TextView
+            android:id="@+id/anime_release"
+            style="@style/TextInfo"
+            android:text="@string/release_date"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_anime_eng_title" />
+
+        <TextView
+            android:id="@+id/tv_anime_release"
+            style="@style/TextInfoData"
+            android:text="@string/default_date"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/anime_release"
+            app:layout_constraintTop_toBottomOf="@+id/tv_anime_eng_title" />
+
+        <TextView
+            android:id="@+id/anime_episodes"
+            style="@style/TextInfo"
+            android:text="@string/total_episodes"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/anime_release" />
+
+        <TextView
+            android:id="@+id/tv_anime_episodes"
+            style="@style/TextInfoData"
+            android:text="@string/episode_count"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/anime_episodes"
+            app:layout_constraintTop_toBottomOf="@+id/tv_anime_release" />
+
+        <TextView
+            android:id="@+id/anime_rating"
+            style="@style/TextInfo"
+            android:text="@string/rating"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/anime_episodes" />
+
+        <TextView
+            android:id="@+id/tv_anime_rating"
+            style="@style/TextInfoData"
+            android:layout_width="wrap_content"
+            android:text="@string/zero"
+            app:layout_constraintBottom_toTopOf="@+id/synopsis"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toEndOf="@id/anime_rating"
+            app:layout_constraintTop_toBottomOf="@+id/tv_anime_episodes"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <RatingBar
+            android:id="@+id/rb_anime_rating"
+            style="@style/Widget.AppCompat.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:isIndicator="true"
+            android:numStars="10"
+            android:stepSize="0.5"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/anime_rating" />
+
+        <TextView
+            android:id="@+id/synopsis"
+            style="@style/TextInfo"
+            android:text="@string/synopsis"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/rb_anime_rating" />
+
+        <TextView
+            android:id="@+id/tv_anime_synopsis"
+            style="@style/TextSynopsis"
+            android:layout_margin="16dp"
+            android:text="@string/description"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/synopsis" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

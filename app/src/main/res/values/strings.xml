@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Winter 2023 Anime</string>
+    <string name="anime_titles">Judul Anime</string>
+    <string name="description">Deskripsi Anime</string>
+    <string name="default_image">default image</string>
+    <string name="profile_name">Bima Adityo Kurniawan</string>
+    <string name="profile_email">dito95.bluestars@gmail.com</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="episode_count">N/A</string>
+    <string name="total_episodes">Total Episodes:</string>
+    <string name="default_date">January 1, 1970</string>
+    <string name="release_date">Release Date:</string>
+    <string name="anime_title">Anime Title</string>
+    <string name="anime_cover">Anime Cover</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="zero">0</string>
+    <string name="rating">Rating:</string>
+    <string-array name="data_title">
+        <item>Kage no Jitsuryokusha ni Naritakute!</item>
+        <item>Boku no Hero Academia 6th Season</item>
+        <item>Maou Gakuin no Futekigousha Ⅱ</item>
+        <item>One Piece</item>
+        <item>BLUELOCK</item>
+        <item>Saikyou Onmyouji no Isekai Tenseiki</item>
+        <item>VINLAND SAGA SEASON 2</item>
+        <item>Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu You Desu</item>
+        <item>Tondemo Skill de Isekai Hourou Meshi</item>
+        <item>Mairimashita! Iruma-kun 3rd Season</item>
+        <item>Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken</item>
+        <item>Hyouken no Majutsushi ga Sekai wo Suberu</item>
+        <item>Tomo-chan wa Onnanoko!</item>
+        <item>Tensei Oujo to Tensai Reijou no Mahou Kakumei</item>
+    </string-array>
+    <string-array name="data_synopsis">
+        <item>“The Eminence in Shadow.”\n\nNot the main character, and not the last boss. The one who lurks in the shadows of the storyline and holds all the power, hiding his true abilities by acting like a side character. The boy who longs to be a \'Shadowbroker\' lives an unobtrusive life as a side character, training to gain magic power until he\'s killed in an accident and reincarnated into another world.\n\nReborn as Cid Kagenou, the boy decides to enjoy himself in this other world with a made-up scenario about \"the Eminence in Shadow.\" He starts fooling around with secret maneuvers against an evil cult that he born from his imagination… and it turns out that the cult really does exist! The girls he took on as his subordinates on a whim began worshiping Cid as Shadow, and before he knows it, Cid has become a true \"Eminence in Shadow.\" Before long, Cid—along with his mysterious group the Shadow Garden—will destroy the darkness of his new world.\n\nThe Strongest MC x Overwhelming Chuunibyou x A Serious Comedy Full of Misunderstandings\n\n
+
+[Source: Crunchyroll Games]</item>
+        <item>With Bakugo and Todoroki, Deku is doing his work study at the office of the number one hero, Endeavor. Working hard in the best possible environment, he is growing as a hero and using Blackwhip, a new Quirk that was hiding in One For All. Meanwhile, Tomura Shigaraki from the League of Villains clashes against the Metahuman Liberation Army led by Re-Destro. While he’s being driven into a corner fighting Re-Destro, he recovers forgotten memories of his terrible childhood and is awakened. He seizes the Metahuman Liberation Army, expands its influence, and now desires a new power for himself to destroy everything.\n\n
+
+[Source: Crunchyroll]</item>
+        <item>The tyrannical demon king "the misfit" shows the trajectory he will endeavor in this new era.\n\nThe one that has appeared in front of Anos, who prevented the war between demons and humans, was a new “child of the god” who has come to annihilate the tyrannical demon king————.\n\nThe misfit who overcomes all odds heads on to a new battle.\n\n“After being reincarnated into a peaceful era, I’ve learned how to hold back a bit.”\n\n
+
+[Source: official English website]</item>
+        <item>Monkey. D. Luffy refuses to let anyone or anything stand in the way of his quest to become the king of all pirates. With a course charted for the treacherous waters of the Grand Line and beyond, this is one captain who’ll never give up until he’s claimed the greatest treasure on Earth: the Legendary One Piece\n\n
+
+[Source: Funimation]</item>
+        <item>Japan’s desire for World Cup glory leads the Japanese Football Association to launch a new rigorous training program to find the national team’s next striker. Three hundred high school players are pitted against each other for the position, but only one will come out on top. Who among them will be the striker to usher in a new era of Japanese soccer?\n\n
+
+[Source: Crunchyroll]</item>
+        <item>You can’t be happy if you’re just strong, even if you’re the strongest exorcist in the world.\n\nExorcist Haruyoshi Kuga, called an unrivaled genius, is betrayed by the Imperial Court and about to die. Resolving to be happy in his next life, he uses a secret reincarnation technique he created and reincarnates in another world. And so he receives a new name, Seika, and a new life.\n\n“What I lacked in my previous life was cunning. In this life, I’ll be more calculating and find happiness.”\n\nWith the strongest exorcist techniques and strong demons working with him, what lies ahead for him? The peaceful life he wants, or....\n\nThis is the start of a story no one’s ever seen before: the story of the strongest exorcist in a fantasy world.\n\n
+
+[Source: Crunchyroll]</item>
+        <item>A new millennium begins in the southern part of the Jutland peninsula in Denmark. After the death of his longtime enemy, Askeladd, Thorfinn lost his purpose in life. He was bought by the landowner Ketil as a “slave” and engaged in land reclamation work on his farm.\n\nThorfinn meets a young man there, Einar, who was also a slave like him. The encounter of Einar led Thorfinn to face the sins he had committed and began to find meaning in life.\n\nOn the other hand, Canute, who became the King of England, attempted to extend his territory for the establishment of “the promised land.”\n\n
+
+[Source: official website]</item>
+        <item>The city of Terene in the Holy Kingdom of Dinez is a melting pot of races and professions: adventurers looking to get rich quick, quick-witted merchants, singing and dancing bards, nobles, holy men, beastfolk, and more. The town itself is so labyrinthine that it has been nicknamed the Labyrinth Town.\n\nNick, a heartbroken Light Warrior who has been kicked out of the Martial Arts adventuring party and deceived by his lover, is a resident of this city.\n\nFed up with everything, he visits a bar only to find bad food, adventurers living it up, and uninteresting tablemates.\n\nAs he drowns his sorrows in lukewarm beer, all of his irritation and discontent burst forth in one declaration:\n\n“Humans can’t be trusted!”\n\nHe thought he was only voicing his own frustration, but in reality, the statement came from four voices…\n\nThus begins the adventure of four people who each carry their own scars!\n\n
+
+[Source: Crunchyroll]</item>
+        <item>Mukoda Tsuyoshi, an ordinary salaryman, is suddenly transported to another world one day. The unique skill he gains upon arrival in this world is the seemingly useless “Online Grocery.” Mukoda is discouraged at first, but the modern foods he’s able to bring to his new world using this skill prove to have some unbelievable effects!\n\n
+
+[Source: Crunchyroll]</item>
+        <item>This time it’s the jungle!\n\nHuman boy Suzuki Iruma becomes “grandson” to the great demon Sullivan and begins attending demon school where “Grandson” serves as chair. Winning friends — and rising in demon rank, too — Iruma thrives in his new environment, overcoming the harrowing ordeals thrown his way! In the new season, further challenges await… it’s harvest season, and time for the annual test where students wade into the expansive and extremely dangerous (!) jungle to compete for food!! Classmates become rivals, and what erupts is a gargantuan battle of brawn and wits?\n\n
+
+[Source: NHK Enterprises]</item>
+        <item>A HEAVENLY ENCOUNTER!\n\nMahiru is a beautiful girl whose classmates all call her an “angel.” Not only is she a star athlete with perfect grades—she’s also drop-dead gorgeous. Amane‚ an average guy and self-admitted slob‚ has never thought much of the divine beauty‚ despite attending the same school. Everything changes‚ however‚ when he happens to see Mahiru sitting alone in a park during a rainstorm. Thus begins the strange relationship between this incredibly unlikely pair!\n\n
+
+[Source: Yen Press]</item>
+        <item>The Iceblade Sorcerer is hailed as the most powerful sorcerer in the world. The one who inherited this title, Ray White, struggles to deal with his own immense power. After fighting in the Far East War, his last accomplishment, he vanished from the battlefield along with a deeply scarred psyche. Three years have passed since then, and Ray has enrolled at the Arnold Academy of Magic, a school attended by elite sorcerers from around the world.\n\nRay is the first “Ordinary” to attend this academy since it was founded, so he’s greeted by looks of scorn and contempt from its noble-born students. And now, he and the priceless friends he has found there are about to become entangled in multiple schemes. So begins the story of the most powerful sorcerer’s school life filled with both friendship and hardship.\n\n
+
+[Source: Crunchyroll]</item>
+        <item>Boyish high school girl Tomo Aizawa (Tomo-chan) wants her childhood friend Junichiro Kubota to see her as an actual girl, but every attempt ends up in vain. Will Junichiro ever realize Tomo’s romantic feelings towards him?!\n\n
+
+[Source: Crunchyroll]</item>
+        <item>When noblewoman Euphyllia is unjustly stripped of her title as the kingdom’s next monarch, the buffoonish Princess Anisphia takes it upon herself to right this wrong. Despite being taken for a fool ’cause of her silly antics, Anisphia is a magic genius, and she has a plan to help Euphyllia regain her good name. But little do they know—their encounter will alter the kingdom and the entire world!\n\n
+
+[Source: Crunchyroll]</item>
+    </string-array>
+    <string-array name="data_cover">
+        <item>https://u.livechart.me/anime/10432/poster_image/b22d48c7916749bfbbdaba4785da3c85.jpg?style=large</item>
+        <item>https://u.livechart.me/anime/10814/poster_image/b0dd89eb4ff8c8ecebbec8bea08a3fc7.webp?style=large</item>
+        <item>https://u.livechart.me/anime/10448/poster_image/84ce940cd96d33fe408e860f2a2e5bab.webp?style=large</item>
+        <item>https://u.livechart.me/anime/321/poster_image/b121b16f4061e35e27b6d758b2e9503a.jpg?style=large</item>
+        <item>https://u.livechart.me/anime/10687/poster_image/a3c106f1f57caf5ec026f4faf7ebb54f.webp?style=large</item>
+        <item>https://u.livechart.me/anime/11057/poster_image/3485ce5b4074f6506e47dcee3510127c.webp?style=large</item>
+        <item>https://u.livechart.me/anime/10618/poster_image/105965dab085d77633713d18c74b6280.webp?style=large</item>
+        <item>https://u.livechart.me/anime/10749/poster_image/ed36024848517ec625df3b287719c422.webp?style=large</item>
+        <item>https://u.livechart.me/anime/11379/poster_image/21a22f13727aca88618109b995d5e607.webp?style=large</item>
+        <item>https://u.livechart.me/anime/10780/poster_image/eb9fca093e1dc0b86a7b8d8bd2804994.webp?style=large</item>
+        <item>https://u.livechart.me/anime/11016/poster_image/4db8fbe4a03fd26b61d1632adb4b5791.webp?style=large</item>
+        <item>https://u.livechart.me/anime/11197/poster_image/81674b4346ed5bc0b48bb15fd235ac7c.webp?style=large</item>
+        <item>https://u.livechart.me/anime/11319/poster_image/bc7a6ad120ccf41f73c13188bc5d8be8.webp?style=large</item>
+        <item>https://u.livechart.me/anime/11368/poster_image/4ab906bdb628e6b5f818fda4514fc504.webp?style=large</item>
+    </string-array>
+    <string-array name="data_release">
+        <item>October 5, 2022</item>
+        <item>October 1, 2022</item>
+        <item>January 8, 2023</item>
+        <item>October 20, 1999</item>
+        <item>October 9, 2022</item>
+        <item>January 7, 2023</item>
+        <item>January 10, 2023</item>
+        <item>January 3, 2023</item>
+        <item>January 10, 2023</item>
+        <item>October 8, 2022</item>
+        <item>January 7, 2023</item>
+        <item>January 6, 2023</item>
+        <item>January 5, 2023</item>
+        <item>January 4, 2023</item>
+    </string-array>
+    <string-array name="data_eng_title">
+        <item>The Eminence in Shadow</item>
+        <item>My Hero Academia Season 6</item>
+        <item>The Misfit of Demon King Academy Ⅱ</item>
+        <item>One Piece</item>
+        <item>Blue Lock</item>
+        <item>The Reincarnation of the Strongest Exorcist in Another World</item>
+        <item>Vinland Saga Season 2</item>
+        <item>Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World</item>
+        <item>Campfire Cooking in Another World with My Absurd Skills</item>
+        <item>Welcome to Demon School! Iruma-kun Season 3</item>
+        <item>The Angel Next Door Spoils Me Rotten</item>
+        <item>The Iceblade Sorcerer Shall Rule the World</item>
+        <item>Tomo-chan Is a Girl!</item>
+        <item>The Magical Revolution of the Reincarnated Princess and the Genius Young Lady</item>
+    </string-array>
+    <integer-array name="data_episodes">
+        <item>20</item>
+        <item>25</item>
+        <item>13</item>
+        <item>1052</item>
+        <item>24</item>
+        <item>13</item>
+        <item>24</item>
+        <item>12</item>
+        <item>12</item>
+        <item>21</item>
+        <item>12</item>
+        <item>12</item>
+        <item>13</item>
+        <item>12</item>
+    </integer-array>
+    <string-array name="data_rating">
+        <item>8.51</item>
+        <item>8.28</item>
+        <item>8.03</item>
+        <item>9.06</item>
+        <item>8.31</item>
+        <item>7.87</item>
+        <item>8.26</item>
+        <item>7.59</item>
+        <item>7.94</item>
+        <item>8.11</item>
+        <item>8.13</item>
+        <item>7.59</item>
+        <item>7.81</item>
+        <item>7.95</item>
+    </string-array>
+</resources>
